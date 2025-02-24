@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681151345966",
+    "project_id": "electronic-3ae38",
+    "storage_bucket": "electronic-3ae38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681151345966:android:ce36b16f22c45c3d0776bf",
+        "android_client_info": {
+          "package_name": "com.dm.berxley.electronicsstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zc_9-4rT2Hmg7mJtJEqnUJQoPMTp_bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
